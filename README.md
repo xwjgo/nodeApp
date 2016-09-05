@@ -18,6 +18,8 @@
 ## 项目运行
 
 ```
+// 安装依赖
+npm install
 // 启动mongodb
 $ sudo mongod
 // 启动项目
