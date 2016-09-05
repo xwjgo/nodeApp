@@ -6,7 +6,7 @@
 
 由于前后端分离开发，所以后端的主要任务是向前端传输json。
 
-前端的是基于vue.js来实现，代码可以点击[这里](http://xwjgo.github.io)访问到。
+前端的是基于vue.js来实现，代码可以点击[这里](https://github.com/xwjgo/vueProject)访问到。
 
 目前实现的功能有：
 
@@ -19,6 +19,8 @@
 ## 项目运行
 
 ```
+// 安装依赖
+npm install
 // 启动mongodb
 $ sudo mongod
 // 启动项目
